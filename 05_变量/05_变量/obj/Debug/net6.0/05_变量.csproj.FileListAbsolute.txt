@@ -1,0 +1,15 @@
+C:\Users\kaede\source\repos\05_变量\05_变量\bin\Debug\net6.0\05_变量.exe
+C:\Users\kaede\source\repos\05_变量\05_变量\bin\Debug\net6.0\05_变量.deps.json
+C:\Users\kaede\source\repos\05_变量\05_变量\bin\Debug\net6.0\05_变量.runtimeconfig.json
+C:\Users\kaede\source\repos\05_变量\05_变量\bin\Debug\net6.0\05_变量.dll
+C:\Users\kaede\source\repos\05_变量\05_变量\bin\Debug\net6.0\05_变量.pdb
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\05_变量.csproj.AssemblyReference.cache
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\05_变量.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\05_变量.AssemblyInfoInputs.cache
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\05_变量.AssemblyInfo.cs
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\05_变量.csproj.CoreCompileInputs.cache
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\05_变量.dll
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\refint\05_变量.dll
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\05_变量.pdb
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\05_变量.genruntimeconfig.cache
+C:\Users\kaede\source\repos\05_变量\05_变量\obj\Debug\net6.0\ref\05_变量.dll

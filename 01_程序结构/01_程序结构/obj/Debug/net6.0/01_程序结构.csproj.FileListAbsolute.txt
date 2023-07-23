@@ -1,0 +1,15 @@
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\bin\Debug\net6.0\01_程序结构.exe
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\bin\Debug\net6.0\01_程序结构.deps.json
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\bin\Debug\net6.0\01_程序结构.runtimeconfig.json
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\bin\Debug\net6.0\01_程序结构.dll
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\bin\Debug\net6.0\01_程序结构.pdb
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\01_程序结构.csproj.AssemblyReference.cache
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\01_程序结构.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\01_程序结构.AssemblyInfoInputs.cache
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\01_程序结构.AssemblyInfo.cs
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\01_程序结构.csproj.CoreCompileInputs.cache
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\01_程序结构.dll
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\refint\01_程序结构.dll
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\01_程序结构.pdb
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\01_程序结构.genruntimeconfig.cache
+C:\Users\kaede\source\repos\01_程序结构\01_程序结构\obj\Debug\net6.0\ref\01_程序结构.dll

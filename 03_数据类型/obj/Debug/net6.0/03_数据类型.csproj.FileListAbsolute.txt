@@ -1,0 +1,15 @@
+C:\Users\kaede\source\repos\03_数据类型\bin\Debug\net6.0\03_数据类型.exe
+C:\Users\kaede\source\repos\03_数据类型\bin\Debug\net6.0\03_数据类型.deps.json
+C:\Users\kaede\source\repos\03_数据类型\bin\Debug\net6.0\03_数据类型.runtimeconfig.json
+C:\Users\kaede\source\repos\03_数据类型\bin\Debug\net6.0\03_数据类型.dll
+C:\Users\kaede\source\repos\03_数据类型\bin\Debug\net6.0\03_数据类型.pdb
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\03_数据类型.csproj.AssemblyReference.cache
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\03_数据类型.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\03_数据类型.AssemblyInfoInputs.cache
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\03_数据类型.AssemblyInfo.cs
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\03_数据类型.csproj.CoreCompileInputs.cache
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\03_数据类型.dll
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\refint\03_数据类型.dll
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\03_数据类型.pdb
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\03_数据类型.genruntimeconfig.cache
+C:\Users\kaede\source\repos\03_数据类型\obj\Debug\net6.0\ref\03_数据类型.dll

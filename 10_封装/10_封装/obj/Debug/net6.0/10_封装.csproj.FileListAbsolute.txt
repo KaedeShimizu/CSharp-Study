@@ -1,0 +1,15 @@
+C:\Users\kaede\source\repos\10_封装\10_封装\bin\Debug\net6.0\10_封装.exe
+C:\Users\kaede\source\repos\10_封装\10_封装\bin\Debug\net6.0\10_封装.deps.json
+C:\Users\kaede\source\repos\10_封装\10_封装\bin\Debug\net6.0\10_封装.runtimeconfig.json
+C:\Users\kaede\source\repos\10_封装\10_封装\bin\Debug\net6.0\10_封装.dll
+C:\Users\kaede\source\repos\10_封装\10_封装\bin\Debug\net6.0\10_封装.pdb
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\10_封装.csproj.AssemblyReference.cache
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\10_封装.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\10_封装.AssemblyInfoInputs.cache
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\10_封装.AssemblyInfo.cs
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\10_封装.csproj.CoreCompileInputs.cache
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\10_封装.dll
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\refint\10_封装.dll
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\10_封装.pdb
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\10_封装.genruntimeconfig.cache
+C:\Users\kaede\source\repos\10_封装\10_封装\obj\Debug\net6.0\ref\10_封装.dll

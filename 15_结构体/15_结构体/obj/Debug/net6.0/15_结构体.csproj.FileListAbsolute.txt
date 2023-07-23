@@ -1,0 +1,15 @@
+C:\Users\kaede\source\repos\15_结构体\15_结构体\bin\Debug\net6.0\15_结构体.exe
+C:\Users\kaede\source\repos\15_结构体\15_结构体\bin\Debug\net6.0\15_结构体.deps.json
+C:\Users\kaede\source\repos\15_结构体\15_结构体\bin\Debug\net6.0\15_结构体.runtimeconfig.json
+C:\Users\kaede\source\repos\15_结构体\15_结构体\bin\Debug\net6.0\15_结构体.dll
+C:\Users\kaede\source\repos\15_结构体\15_结构体\bin\Debug\net6.0\15_结构体.pdb
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\15_结构体.csproj.AssemblyReference.cache
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\15_结构体.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\15_结构体.AssemblyInfoInputs.cache
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\15_结构体.AssemblyInfo.cs
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\15_结构体.csproj.CoreCompileInputs.cache
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\15_结构体.dll
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\refint\15_结构体.dll
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\15_结构体.pdb
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\15_结构体.genruntimeconfig.cache
+C:\Users\kaede\source\repos\15_结构体\15_结构体\obj\Debug\net6.0\ref\15_结构体.dll

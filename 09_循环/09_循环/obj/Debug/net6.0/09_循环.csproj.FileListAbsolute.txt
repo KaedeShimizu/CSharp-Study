@@ -1,0 +1,15 @@
+C:\Users\kaede\source\repos\09_循环\09_循环\bin\Debug\net6.0\09_循环.exe
+C:\Users\kaede\source\repos\09_循环\09_循环\bin\Debug\net6.0\09_循环.deps.json
+C:\Users\kaede\source\repos\09_循环\09_循环\bin\Debug\net6.0\09_循环.runtimeconfig.json
+C:\Users\kaede\source\repos\09_循环\09_循环\bin\Debug\net6.0\09_循环.dll
+C:\Users\kaede\source\repos\09_循环\09_循环\bin\Debug\net6.0\09_循环.pdb
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\09_循环.csproj.AssemblyReference.cache
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\09_循环.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\09_循环.AssemblyInfoInputs.cache
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\09_循环.AssemblyInfo.cs
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\09_循环.csproj.CoreCompileInputs.cache
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\09_循环.dll
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\refint\09_循环.dll
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\09_循环.pdb
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\09_循环.genruntimeconfig.cache
+C:\Users\kaede\source\repos\09_循环\09_循环\obj\Debug\net6.0\ref\09_循环.dll

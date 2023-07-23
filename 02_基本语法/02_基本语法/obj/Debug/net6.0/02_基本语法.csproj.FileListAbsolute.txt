@@ -1,0 +1,15 @@
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\bin\Debug\net6.0\02_基本语法.exe
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\bin\Debug\net6.0\02_基本语法.deps.json
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\bin\Debug\net6.0\02_基本语法.runtimeconfig.json
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\bin\Debug\net6.0\02_基本语法.dll
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\bin\Debug\net6.0\02_基本语法.pdb
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\02_基本语法.csproj.AssemblyReference.cache
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\02_基本语法.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\02_基本语法.AssemblyInfoInputs.cache
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\02_基本语法.AssemblyInfo.cs
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\02_基本语法.csproj.CoreCompileInputs.cache
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\02_基本语法.dll
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\refint\02_基本语法.dll
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\02_基本语法.pdb
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\02_基本语法.genruntimeconfig.cache
+C:\Users\kaede\source\repos\02_基本语法\02_基本语法\obj\Debug\net6.0\ref\02_基本语法.dll
